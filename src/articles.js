@@ -16,5 +16,11 @@ export default [
         'date': '2020-11-09',
         'title': 'Lorem ipsum title 3',
         'content': 'Lorem ipsum dolor content 3'
+    },
+    {
+        'id': 4,
+        'date': '2020-11-09',
+        'title': 'Lorem ipsum title 4',
+        'content': 'Lorem ipsum dolor content 4'
     }
 ]

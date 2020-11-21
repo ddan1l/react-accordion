@@ -3,7 +3,7 @@ import {Component} from 'react'
 export default function Article ({article, isOpen, onButtonClick}) {
         const content = isOpen && <section className='card-text'>{article.content}</section>
         return (
-            <div className='card mx-auto' style={{width:'50%'}}>
+            <div className='card mx-auto' >
                 <div className='card-header'>
                     <h2>
                         {article.title}
